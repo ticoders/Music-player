@@ -14,7 +14,7 @@ const albums = [
     
     
     {
-        album: "LUNACYCL",
+        album: "WHATEVER",
         emblem:"ITS WHATEVER",
         "bg-color": ["#0396ff", "#0d1827" ],
         url: ("./Assets/LunaCycl.png"),
